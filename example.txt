@@ -1,0 +1,17 @@
+<dialog>
+height= 2408
+width= 4688
+backcolor= -2147483633
+enabled= True
+caption= "Test Dialog"
+</dialog>
+
+<controls>
+AddControl BUTTON,125,172,350,1215,True,"OK"
+AddControl STATIC,180,1582,218,2148,True,"Static Label Control"
+AddControl EDIT,615,202,300,1215,True,"An TextBox"
+AddControl TMR,0,False
+AddControl LB,615,2437,1178,2028,True,""
+AddControl CHECKBOX,1178,202,225,1215,True,"Bold"
+AddControl CHECKBOX,1553,202,225,1215,True,"Italic"
+</controls>
